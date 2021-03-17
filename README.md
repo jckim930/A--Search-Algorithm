@@ -1,5 +1,5 @@
 # A* Search Algorithm
- A* Search algorithm programmed to solve an 8 tile puzzle. The program gives the user the option of selecting the heuristic of their choosing from:
+ A* Search algorithm programmed with my partner for our Principles of Artifical Intelligence course to solve an 8 tile puzzle. The program gives the user the option of selecting the heuristic of their choosing from:
  
   a.) the number of misplaced tilesManhattan Distance as the heuristic
   
